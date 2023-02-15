@@ -1,0 +1,3 @@
+/home/realjf/cpp_projects/memalloc/build_test/CMakeFiles/memalloc_test.dir
+/home/realjf/cpp_projects/memalloc/build_test/CMakeFiles/edit_cache.dir
+/home/realjf/cpp_projects/memalloc/build_test/CMakeFiles/rebuild_cache.dir
